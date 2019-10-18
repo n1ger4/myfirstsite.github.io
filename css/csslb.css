@@ -1,0 +1,34 @@
+.frame:hover{
+  border: 2px solid #323232;
+  
+}
+
+
+.indentation {
+  margin-right: 600px;
+}
+
+ html{
+   background: url("./0_543_1.jpg");
+ }
+
+body{
+  margin:15px 200px;
+ 
+  font-family: 'Dancing Script', cursive;
+
+  font- size: 19px;
+  line-height: 1.6;
+  
+  color: #000080;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  margin: 0;
+}
+
+.container {
+  border: 1px solid non;
+  height: 300px;
+  background: url("./Без имени-2.jpg") repeat-x center top;
+}
